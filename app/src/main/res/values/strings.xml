@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestingApp</string>
+    <string name="settings_title">My Setting</string>
+    <string name="name_label">Your name</string>
+    <string name="name_hint">Shweta</string>
+    <string name="dob_label">Date of Birth</string>
+    <string name="email_label">Email Address</string>
+    <string name="email_hint">Email ID</string>
+    <string name="save">Save</string>
+    <string name="revert">Revert</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_spend">Add New Spend</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+</resources>
